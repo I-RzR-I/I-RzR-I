@@ -4,9 +4,9 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=I-RzR-I&label=%20Profile%20views%20&color=red&style=for-the-badge" alt="ProfileViews" /> 
 </p>
 <br />
-<div style="float:right">
+<p align="right"> 
     <a href="https://www.buymeacoffee.com/RzR0" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
-</div>
+</p>
 <br />
 
 ## Some techstat
